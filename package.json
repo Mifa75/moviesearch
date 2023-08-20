@@ -1,5 +1,6 @@
 {
   "name": "moviesearch",
+  "homepage": "https://Mifa75.github.io/moviesearch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
